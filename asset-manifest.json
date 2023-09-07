@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lajoaquina/static/css/main.073c9b0a.css",
-    "main.js": "/lajoaquina/static/js/main.265f223d.js",
+    "main.js": "/lajoaquina/static/js/main.48e2aaaa.js",
     "static/js/787.b4d5808a.chunk.js": "/lajoaquina/static/js/787.b4d5808a.chunk.js",
-    "static/media/logo.svg": "/lajoaquina/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/register-img.png": "/lajoaquina/static/media/register-img.5330810ba5986eaad746.png",
     "index.html": "/lajoaquina/index.html",
     "main.073c9b0a.css.map": "/lajoaquina/static/css/main.073c9b0a.css.map",
-    "main.265f223d.js.map": "/lajoaquina/static/js/main.265f223d.js.map",
+    "main.48e2aaaa.js.map": "/lajoaquina/static/js/main.48e2aaaa.js.map",
     "787.b4d5808a.chunk.js.map": "/lajoaquina/static/js/787.b4d5808a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.265f223d.js"
+    "static/js/main.48e2aaaa.js"
   ]
 }
