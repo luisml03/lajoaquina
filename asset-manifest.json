@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/lajoaquina/static/css/main.073c9b0a.css",
-    "main.js": "/lajoaquina/static/js/main.48e2aaaa.js",
+    "main.css": "/lajoaquina/static/css/main.f532136f.css",
+    "main.js": "/lajoaquina/static/js/main.ac1e9dea.js",
     "static/js/787.b4d5808a.chunk.js": "/lajoaquina/static/js/787.b4d5808a.chunk.js",
+    "static/media/coffee2.png": "/lajoaquina/static/media/coffee2.9d6e0a1c098592232afa.png",
+    "static/media/coffee4.png": "/lajoaquina/static/media/coffee4.54bebda652f972d75049.png",
+    "static/media/coffee1.png": "/lajoaquina/static/media/coffee1.0287c37fe1166f8900c8.png",
+    "static/media/coffee3.png": "/lajoaquina/static/media/coffee3.9093ed57483d82a5e167.png",
     "static/media/register-img.png": "/lajoaquina/static/media/register-img.5330810ba5986eaad746.png",
     "index.html": "/lajoaquina/index.html",
-    "main.073c9b0a.css.map": "/lajoaquina/static/css/main.073c9b0a.css.map",
-    "main.48e2aaaa.js.map": "/lajoaquina/static/js/main.48e2aaaa.js.map",
+    "main.f532136f.css.map": "/lajoaquina/static/css/main.f532136f.css.map",
+    "main.ac1e9dea.js.map": "/lajoaquina/static/js/main.ac1e9dea.js.map",
     "787.b4d5808a.chunk.js.map": "/lajoaquina/static/js/787.b4d5808a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.48e2aaaa.js"
+    "static/css/main.f532136f.css",
+    "static/js/main.ac1e9dea.js"
   ]
 }
